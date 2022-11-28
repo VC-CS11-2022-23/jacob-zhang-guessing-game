@@ -11,4 +11,5 @@ Steps for success!
 5. If its lower, tell the user
 6. Upon success, tell the user
 7. Repeat steps 3 to 6 until the user guesses the correct number OR the number of tries exceeds 3
-8. Win my heart with creative ascii art upon success
+8. DOCUMENT the most important parts of your program in comments, explain what the most important parts do
+9. Win my heart with creative ascii art upon success
